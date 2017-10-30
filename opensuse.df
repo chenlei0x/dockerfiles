@@ -1,3 +1,3 @@
 from opensuse:latest
-run zypper in git
-run zypper in autoconf make
+run zypper in -y git
+run zypper in -y autoconf make
